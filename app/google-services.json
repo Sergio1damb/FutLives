@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "549394678173",
+    "project_id": "futlives",
+    "storage_bucket": "futlives.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549394678173:android:898608a70d03fab66d6f74",
+        "android_client_info": {
+          "package_name": "com.example.futlives"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTDwMcW2u7D3XWMwDsr3SDoz-tifLPl7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
